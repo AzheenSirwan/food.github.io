@@ -1,0 +1,68 @@
+.home-body{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+ .header{
+    color: maroon;
+    display: flex;
+    justify-content: center ;
+ }
+.row{
+    display: flex;
+    justify-content: space-between;    
+    padding: 0px 20px;
+}
+.links{
+    font-size: 1.3rem;
+    margin-top: 40px;
+}
+.img img{
+    width: 200px;
+    height: 200px;
+}
+.table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.reservation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.catering{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tours{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+.italian{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+.indian{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+.continental{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+.thai{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
